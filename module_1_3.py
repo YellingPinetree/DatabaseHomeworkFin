@@ -11,3 +11,12 @@ print ('Name:', Name)
 print ('Age:', Age)
 print ('New age:', New_age)
 print ('Is student:', Is_student)
+#AnotherPath?
+Name = 'Elena'
+Age = 23
+New = 1
+Is_student = True
+print ('Name:', Name)
+print ('Age:', Age)
+print ('New age:', Age + New)
+print ('Is student:', Is_student)
