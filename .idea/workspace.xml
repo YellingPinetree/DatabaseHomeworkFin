@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f74eb5c-70b3-48ea-8be2-a6b3179f3384" name="Changes" comment="String organizing and methods Homework">
+    <list default="true" id="7f74eb5c-70b3-48ea-8be2-a6b3179f3384" name="Changes" comment="List&amp;Tupple homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_5.executor": "Run",
+    "Python.module_1_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Asrock/PycharmProjects/Lesson1(Hello, world)/main.py"
@@ -120,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731760488381</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="String organizing and methods Homework">
+      <option name="closed" value="true" />
+      <created>1731935099296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731935099296</updated>
+    </task>
+    <task id="LOCAL-00008" summary="List&amp;Tupple homework">
+      <option name="closed" value="true" />
+      <created>1731935169316</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731935169316</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +147,7 @@
     <MESSAGE value="Variables Homework" />
     <MESSAGE value="String index Homework" />
     <MESSAGE value="String organizing and methods Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="String organizing and methods Homework" />
+    <MESSAGE value="List&amp;Tupple homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="List&amp;Tupple homework" />
   </component>
 </project>
