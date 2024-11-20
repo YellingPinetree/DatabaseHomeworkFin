@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f74eb5c-70b3-48ea-8be2-a6b3179f3384" name="Changes" comment="Dictionary &amp; set homework">
+    <list default="true" id="7f74eb5c-70b3-48ea-8be2-a6b3179f3384" name="Changes" comment="Extra homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Datas.executor": "Run",
-    "Python.EEEEEXPERIMENTING.executor": "Run",
-    "Python.ExtraHomework.executor": "Run",
-    "Python.String index.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.module_1_3.executor": "Run",
-    "Python.module_1_4.executor": "Run",
-    "Python.module_1_5.executor": "Run",
-    "Python.module_1_6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Asrock/PycharmProjects/Lesson1(Hello, world)/main.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Datas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EEEEEXPERIMENTING.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExtraHomework.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asrock/PycharmProjects/Lesson1(Hello, world)/main.py&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -147,8 +147,27 @@
       <option name="project" value="LOCAL" />
       <updated>1731937584081</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Extra homework">
+      <option name="closed" value="true" />
+      <created>1731942678606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731942678606</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Database Homework" />
@@ -159,6 +178,7 @@
     <MESSAGE value="String organizing and methods Homework" />
     <MESSAGE value="List&amp;Tupple homework" />
     <MESSAGE value="Dictionary &amp; set homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dictionary &amp; set homework" />
+    <MESSAGE value="Extra homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra homework" />
   </component>
 </project>
